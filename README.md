@@ -2,6 +2,11 @@
 
 ## Theory, lectures, slides, notes, schemes, diagrams, papers etc.
 
+* Лекции и други материали от първия курс по Общ изкуствен интелект в Пловдив, 2010, 2011 г.
+
+English: https://research.twenkid.com/agi/2010/Todor_Arnaudov_Theory_of_Hierarchical_Universal_Simulators_of_universes_Eng_MTR_3.pdf
+
+Български:
 
 http://research.twenkid.com/agi/2010/AGI_What_is_Universal_AI_MTR.pdf
 
@@ -39,14 +44,13 @@ http://research.twenkid.com/agi/2010/Razum_principles_Caffe_Sci_2009_MTR.pdf
 
 http://research.twenkid.com/agi/2010/Reinforcement_Learning_Anatomy_of_human_behaviour_22_4_2010.pdf
 
-
-https://research.twenkid.com/agi/2010/Todor_Arnaudov_Theory_of_Hierarchical_Universal_Simulators_of_universes_Eng_MTR_3.pdf
-
 http://research.twenkid.com/agi/2010/Todor_Arnaudov_Theory_of_Hierarchical_Universal_Simulators_of_universes_MTR.pdf
 
 http://research.twenkid.com/agi/2010/Whats_wrong_with_NLP_links.htm
 
+И др.
+
+...
 
 This address: https://github.com/Twenkid/Artificial-General-Intelligence-AGI
 
-This address: https://github.com/Twenkid/Artificial-General-Intelligence-AGI
