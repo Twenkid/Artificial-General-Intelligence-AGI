@@ -2,9 +2,14 @@
 
 ## Theory, lectures, slides, notes, schemes, diagrams, papers etc.
 
+http://artificial-mind.blogspot.com
+
 * Лекции и други материали от първия курс по Общ изкуствен интелект в Пловдив, 2010, 2011 г.
 
-English: https://research.twenkid.com/agi/2010/Todor_Arnaudov_Theory_of_Hierarchical_Universal_Simulators_of_universes_Eng_MTR_3.pdf
+English: 
+
+https://research.twenkid.com/agi/2010/
+https://research.twenkid.com/agi/2010/Todor_Arnaudov_Theory_of_Hierarchical_Universal_Simulators_of_universes_Eng_MTR_3.pdf
 
 Български:
 
