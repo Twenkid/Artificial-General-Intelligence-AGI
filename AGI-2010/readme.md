@@ -1,4 +1,4 @@
-# Materials for the World's First University Course in AGI - Plovdiv 2010, 2011
+## Slides and other resources for the World's First University Course in AGI - Plovdiv 2010, 2011
 
 ...
 
